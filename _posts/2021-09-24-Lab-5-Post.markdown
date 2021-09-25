@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Lab 5 Post"
+date:   2021-09-24 22:28:17 -0500
+categories: lab posts
+---
+I made a couple of assumptions going into the conversion. Some lasted, and others I changed my mind on. The main one that changed was an entity for the Owner, who would "List" items, and had an account. I ended up deleting the whole thing for two reasons. Firstly, the account was a thing not mentioned at all in the description, and ended up feeling confusing, due to my assumptions about the differences in what an admin account vs a user account would use/have as attributes, and secondly, that upon looking over the Boats examples, I realized that there is both no Admin at all after the Trello board, and as well, understood the reasons why an Owner/Admin entity is unnecessary for this sort of project.
+
+By the end, I still have some slight reservations about the Accounts entity, and its relationship to the Customers. While I have decided to leave it, as it feels more necessary to the description of how the website should work than the Owner did, I do not think that any of my classmates would be wrong for making their schemas and diagrams without an Accounts entity. I also have reservations about if I have properly set it up that an order should be able to have multiple items. It is very possible that I have not fully accomplished that with this schema. On the other hand, perhaps if a system like this were made, a customer would make multiple order at once, with each one having a single item (of whatever qty desired), and pick them up together, and I am mistaken in trying to think of all of a customer's desired items as one order, instead of many. To that end, perhaps I have made the schema properly.
+
+I can't say for sure, but I am satisfied with the result that I have.
+
+I had a rather funny dilemma at the end though. In making this blog post, I have had quite a bit of trouble with getting images on my computer to show properly. The file paths are correct (unless I am a complete fool), and using image urls still works fine (which was the solution I have ended up utilising). If this continues to be a problem in the future, I'll get someone's help with it, but I think my solution here works fine.
+
+
+![a model of a grocery store website made with LucidChart](https://cdn.discordapp.com/attachments/351179756038782977/891162963099148318/Lab_51.png)
+![a model of a grocery store website made with Vertabelo](https://cdn.discordapp.com/attachments/351179756038782977/891162965116604506/Lab_5__Grocery_Model-2021-09-24_21-37.png)

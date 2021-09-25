@@ -27,11 +27,5 @@ I am considering getting a dog, and these are the options I'm considering at the
 
 I don't think I'll actually get one since I'm living on campus, but it is something I would like to do at some point.
 
-![image](Lucy_the_Dog_at_The_Green,_Town_Square_Las_Vegas.jpg)
-![alt text](C:\Users\14797\Pictures\597452636853239810.png)
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
-
-
 [music-bot]: https://github.com/TannerGabriel/discord-bot
 [website]: https://www.photopea.com/
