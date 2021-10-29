@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Lab 7 Post"
+date:   2021-10-28 17:28:17 -0500
+categories: lab posts
+---
+Honestly, the whole thing was not very difficult. The most confusing parts were when it referred to specific files that I could not find immediately, or when it referred to things that were on my screen, but were only a single line without the context of what was around it. Beyond that, adding a search bar was a bit difficult for when I was making my own RazorPage, but that was mainly due to having to type up the code but with my own terms rather than movies, and missing a capitalization or the like once or twice. I can see a number of similarities between Jekyll and Razor, but there are more differences than similarities: in terms of similarities, they are both similar in terms of a lot of work can be done to end up with something you can edit relatively easily, and additionally, I can look at each piece of Jekyll or Razor and get an understanding of why it is there and what purpose it serves, which I appreciate, but beyond that, the actual steps going into doing that work can be very different. I think Jekyll is more immediately understandable by the end, since it is simply markdown at that point, but Razor has more uses and more complexity.
+
+Here's a [link][link] to the repository with my lab 7.
+
+[link]: https://github.com/grissogb/csci340lab7

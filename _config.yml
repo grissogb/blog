@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BWahh, welcome to my blog
+title: BWahh, welcome to my blogg
 email: placeholder@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   a description for my blog written on september 14th, 2021, oh wowie,
-  lorem ipsum yada yada placeholder. do i actually need to put anything here?
+  lorem ipsum yada yada placeholder. do i actually need to put anything heree?
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: notputtingthishere
